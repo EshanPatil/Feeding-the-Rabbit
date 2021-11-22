@@ -47,6 +47,9 @@ function draw() {
      } else if (select_sprites == 2) {
        createOrange();
      }
+     else {
+       createRed();
+     }
    }
 
 
